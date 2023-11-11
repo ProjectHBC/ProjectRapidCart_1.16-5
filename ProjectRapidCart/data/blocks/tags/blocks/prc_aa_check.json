@@ -1,0 +1,8 @@
+{
+    "replace":true,
+    "values": [
+        "minecraft:redstone_block",
+		"minecraft:andesite_slab",
+		"minecraft:polished_andesite_slab"
+    ]
+}

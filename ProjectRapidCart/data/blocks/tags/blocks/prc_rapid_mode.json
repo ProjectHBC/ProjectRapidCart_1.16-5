@@ -1,0 +1,10 @@
+{
+    "replace":true,
+    "values": [
+        "#blocks:prc_rapid_50",
+		"#blocks:prc_rapid_70",
+		"#blocks:prc_aa_check",
+		"#blocks:prc_aa_speak",
+		"#blocks:prc_stop"
+    ]
+}
